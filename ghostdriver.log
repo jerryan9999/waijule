@@ -1,0 +1,807 @@
+[INFO  - 2017-04-14T04:15:31.290Z] GhostDriver - Main - running on port 50269
+[INFO  - 2017-04-14T04:15:31.444Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-04-14T04:15:31.444Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.customHeaders:  - {}
+[INFO  - 2017-04-14T04:15:31.444Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-04-14T04:15:31.444Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ffbfd700-20c8-11e7-ace5-350580930bd7
+[ERROR - 2017-04-14T04:16:30.851Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143390819
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:16:31.626Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://s[INFO  - 2017-04-14T04:17:20.415Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T04:22:20.427Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T04:27:20.442Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T04:32:20.455Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T04:37:20.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T04:42:20.475Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T04:47:20.473Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T04:52:20.470Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T04:57:20.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:02:20.474Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:07:20.477Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:12:20.478Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:17:20.482Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:22:20.488Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:27:20.494Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:32:20.500Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:37:20.508Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:42:20.519Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:47:20.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:52:20.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T05:57:20.545Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:02:20.553Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:07:20.563Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:12:20.573Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:17:20.576Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:22:20.580Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:27:20.587Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:32:20.595Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:37:20.602Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:42:20.609Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:47:20.618Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:52:20.626Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T06:57:20.634Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T07:02:20.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-14T07:07:20.648Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ntomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:06.306Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:08.686Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/jessica-chin.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:08.686Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:44.656Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143524611
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:45.374Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/shuqin-sun.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:45.374Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:46.592Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143526567
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:46.716Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/shuqin-sun.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:46.716Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:46.719Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/shuqin-sun.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:18:46.719Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:04.794Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/tong-wu.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:04.794Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:20.122Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/julie-li.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:20.122Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:30.676Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143570648
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:31.406Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/haitao-yu.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:31.406Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:39.121Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143579087
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:39.752Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/flora-li.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:39.753Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:43.443Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143583424
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:43.585Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/tim-li.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:43.585Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:43.591Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/tim-li.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:19:43.592Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:20:08.710Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143608682
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:20:09.425Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/sherry-zuo.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:20:09.425Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-04-14T04:20:31.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-04-14T04:20:33.126Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/xiaonan-song.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:20:33.126Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:20:42.372Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/grace-li-2.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:20:42.372Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:22:01.126Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/frank-zhou.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:22:01.127Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:22:47.197Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143767171
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:22:47.405Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/mary-tung.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:22:47.405Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:22:58.219Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143778189
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:23:20.972Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143800930
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:23:21.124Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/nan-hou.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:23:21.124Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:23:27.830Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/tina-chun.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:23:27.830Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:23:56.465Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143836430
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:23:57.192Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/jennie-fan.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:23:57.192Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:24:20.146Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/steve-sit-0.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:24:20.146Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:24:49.771Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143889742
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:24:50.548Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/douglas-ching.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:24:50.549Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:24:54.817Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143894793
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:24:55.560Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/kai-cheng.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:24:55.560Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:25:02.078Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/grace-yu.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:25:02.079Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-04-14T04:25:31.557Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-04-14T04:25:51.652Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492143951626
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:25:52.476Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/grace-lin-2.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:25:52.476Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:26:08.270Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/michelle-woo.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:26:08.270Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:26:12.897Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/shueli-sun.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:26:12.897Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:26:15.518Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/ping-sun-0.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:26:15.518Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:27:18.310Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492144038260
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:27:18.962Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/mei-yang-0.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:27:18.962Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:28:08.951Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1492144088910
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:28:09.741Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - msg: Error: null is not an object (evaluating 'response.data.wjlCode')
+onFailed@http://static.waijule.cn/app/87224b02.app.js:5079:40
+processQueue@http://static.waijule.cn/app/de091481.vendor.js:16520:31
+http://static.waijule.cn/app/de091481.vendor.js:16536:41
+$eval@http://static.waijule.cn/app/de091481.vendor.js:17819:29
+$digest@http://static.waijule.cn/app/de091481.vendor.js:17632:37
+$apply@http://static.waijule.cn/app/de091481.vendor.js:17927:32
+done@http://static.waijule.cn/app/de091481.vendor.js:11968:54
+completeRequest@http://static.waijule.cn/app/de091481.vendor.js:12170:16
+requestError@http://static.waijule.cn/app/de091481.vendor.js:12113:25
+c@http://www.waijule.com/agents/yu-ting-chang.html:1:223350
+openUrl@[native code]
+open@phantomjs://platform/webpage.js:281:25
+phantomjs://code/session_request_handler.js:495:36
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postUrlCommand@phantomjs://code/session_request_handler.js:494:46
+_handle@phantomjs://code/session_request_handler.js:91:32
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-14T04:28:09.741Z] Session [ffbfd700-20c8-11e7-ace5-350580930bd7] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
