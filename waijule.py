@@ -11,8 +11,8 @@ driver=webdriver.PhantomJS(executable_path='./phantomjs/bin/phantomjs')
 driver.set_window_size(1024, 768)
 
 
-def fill_up_urls(page):
-  url = "http://www.waijule.com/agents?cityArea=SEA&"+"page="+str(page)
+def fill_up_urls(cityarea,page):
+  url = "http://www.waijule.com/agents?cityArea={}&".format(cityarea)+"page="+str(page)
   driver.get(url)
   driver.save_screenshot('screen_{}.png'.format(page))
   anchor_list = driver.find_elements_by_xpath('//*[@id="agent-list"]/agent-list-item/md-list-item/div[1]/div[2]/agent-basic-info/div/div[1]/a')
@@ -80,18 +80,27 @@ if __name__ == '__main__':
   
   # agents' urls
   urls = []
-
+  cites = {    #'seattle':['SEA',28],         # cityArea max page
+               'boston':['BOS',15],
+               'dallas':['DAL',18],
+               'houston':['IAH',33],
+               'losangeles':['LAX',146],
+               'miami':['MIA',14],
+               'nyc':['JFK',2],
+          }
   # prepare agents' url list
-  for page in range(1,28):
-    if page != 0:
-      fill_up_urls(page=page)
-  print("Total agents # equals to {}".format(len(urls)))
+  for city,value in cites.items():
+    if city != 'losangeles':
+      for page in range(1,value[1]):
+        if page != 0:
+          fill_up_urls(cityarea=value[0],page=str(page))
+    print("Total agents in {} # equals to {}".format(city,len(urls)))
 
-  # prepare item list
-  items = []
+    # prepare item list
+    items = []
 
-  for index,url in enumerate(urls):
-    if index<1000:
+    for index,url in enumerate(urls):
+      #if index<1000:
       try:
         item = get_agent_info(url)
       except:
@@ -101,13 +110,13 @@ if __name__ == '__main__':
         print("Finishing #{} for {}".format(index+1,item['name']))
         items.append(item)
 
-  # writing to file
-  with open("items.csv",'w') as csvfile:
-    fieldnames = ['name','url','company','personal_website','addr','experiences','transactions','visitors','comment_num','description']
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    for item in items:
-      writer.writerow(item)
+    # writing to file
+    with open("items_{}.csv".format(city),'w') as csvfile:
+      fieldnames = ['name','url','company','personal_website','addr','experiences','transactions','visitors','comment_num','description']
+      writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+      writer.writeheader()
+      for item in items:
+        writer.writerow(item)
 
 
 
